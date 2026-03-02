@@ -1,4 +1,4 @@
-# 🚀 LeetCode Hot 100 算法通关日记
+# 🚀 LeetCode 算法通关日记
 
 > 💡 **Repository 介绍**
 > 
