@@ -23,6 +23,10 @@
 | 2026-03-03 | 0011 | [盛最多水的容器 (Container With Most Water)](./src/0004_0011_Container_With_Most_Water_盛最多水的容器/) | 🏷️ 双指针 | 数组、双指针、贪心 | 🟡 中等 | 99.93% / 88.41% | ✅ 完成 |
 | 2026-03-03 | 0003 | [无重复字符的最长子串 (Longest Substring Without Repeating Characters)](./src/0005_0003_Longest_Substring_Without_Repeating_Characters_无重复字符的最长子串/) | 🏷️ 滑动窗口 | 哈希表、字符串、滑动窗口 | 🟡 中等 | 96.86% / 90.77% | ✅ 完成 |
 | 2026-03-03 | 0560 | [和为 K 的子数组 (Subarray Sum Equals K)](./src/0006_0560_Subarray_Sum_Equals_K_和为K的子数组/) | 🏷️ 前缀和 | 数组、前缀和、哈希表 | 🟡 中等 | 74.83% / 73.45% | ✅ 完成 |
+| 2026-03-04 | 0053 | [最大子数组和 (Maximum Subarray)](./src/0007_0053_Maximum_Subarray_最大子数组和/) | 🏷️ 普通数组 | 数组、分治法、动态规划 | 🟡 中等 | 100.00% / 59.43% | ✅ 完成 |
+| 2026-03-04 | 0056 | [合并区间 (Merge Intervals)](./src/0008_0056_Merge_Intervals_合并区间/) | 🏷️ 普通数组 | 数组、排序、贪心 | 🟡 中等 | 35.83% / 91.58% | ✅ 完成 |
+| 2026-03-04 | 0073 | [矩阵置零 (Set Matrix Zeroes)](./src/0009_0073_Set_Matrix_Zeroes_矩阵置零/) | 🏷️ 矩阵 | 数组、哈希表、矩阵 | 🟡 中等 | 87.23% / 75.35% | ✅ 完成 |
+| 2026-03-04 | 0121 | [买卖股票的最佳时机 (Best Time to Buy and Sell Stock)](./src/0010_0121_Best_Time_to_Buy_and_Sell_Stock_买卖股票的最佳时机/) | 🏷️ 动态规划 | 数组、动态规划 | 🟢 简单 | 100.00% / 26.08% | ✅ 完成 |
 | - | - | ⏳ 正在加载下一题... | - | - | - | - | - |
 
 > *注：点击题目名称即可进入对应的代码文件夹。*
