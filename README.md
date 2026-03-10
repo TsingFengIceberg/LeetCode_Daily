@@ -63,8 +63,9 @@
 | 2026-03-10 | 0239 | [滑动窗口最大值(Sliding Window Maximum)](./src/0041_0239_Sliding_Window_Maximum_滑动窗口最大值/) | 🏷️ 队列 | 滑动窗口、双端队列 | 🔴 困难 | 59.39% / 25.74% | ✅ 完成 | ✅️ |
 | 2026-03-10 | 0234 | [回文链表(Palindrome Linked List)](./src/0042_0234_Palindrome_Linked_List_回文链表/) | 🏷️ 链表 | 快慢指针、反转链表、原地算法 | 🟢 简单 | 86.99% / 51.41% | ✅ 完成 | |
 | 2026-03-10 | 0098 | [验证二叉搜索树(Validate Binary Search Tree)](./src/0043_0098_Validate_Binary_Search_Tree_验证二叉搜索树/) | 🏷️ 二叉树 | 深度优先搜索、中序遍历 | 🟡 中等 | 100.00% / 87.60% | ✅ 完成 | |
-| 2026-03-10 | 0230 | [二叉搜索树中第K小的元素(Kth Smallest Element in a BST)](./src/0044_0230_Kth_Smallest_Element_in_a_BST_二叉搜索树中第K小的元素/) | 🏷️ 二叉树 | 中序遍历、顺序统计树 |  中等 | 100.00% / 33.21% | ✅ 完成 | ✅️ |
+| 2026-03-10 | 0230 | [二叉搜索树中第K小的元素(Kth Smallest Element in a BST)](./src/0044_0230_Kth_Smallest_Element_in_a_BST_二叉搜索树中第K小的元素/) | 🏷️ 二叉树 | 中序遍历、顺序统计树 |  🟡中等 | 100.00% / 33.21% | ✅ 完成 | ✅️ |
 | 2026-03-10 | 0199 | [二叉树的右视图(Binary Tree Right Side View)](./src/0045_0199_Binary_Tree_Right_Side_View_二叉树的右视图/) | 🏷️ 二叉树 | BFS、层序遍历 | 🟡 中等 | 75.98% / 97.09% | ✅ 完成 | |
+| 2026-03-10 | 0114 | [二叉树展开为链表(Flatten Binary Tree to Linked List)](./src/0046_0114_Flatten_Binary_Tree_to_Linked_List/) | 🏷️ 二叉树 | 先序遍历、Morris 遍历变体、原地修改 | 🟡 中等  | 100.00% / 69.77% | ✅ 完成 | ✅️ |
 | - | - | ⏳ 正在加载下一题... | - | - | - | - | - | - |
 
 > *注：点击题目名称即可进入对应的代码文件夹。*
