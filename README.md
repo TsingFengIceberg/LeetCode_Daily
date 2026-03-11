@@ -66,6 +66,13 @@
 | 2026-03-10 | 0230 | [二叉搜索树中第K小的元素(Kth Smallest Element in a BST)](./src/0044_0230_Kth_Smallest_Element_in_a_BST_二叉搜索树中第K小的元素/) | 🏷️ 二叉树 | 中序遍历、顺序统计树 |  🟡中等 | 100.00% / 33.21% | ✅ 完成 | ✅️ |
 | 2026-03-10 | 0199 | [二叉树的右视图(Binary Tree Right Side View)](./src/0045_0199_Binary_Tree_Right_Side_View_二叉树的右视图/) | 🏷️ 二叉树 | BFS、层序遍历 | 🟡 中等 | 75.98% / 97.09% | ✅ 完成 | |
 | 2026-03-10 | 0114 | [二叉树展开为链表(Flatten Binary Tree to Linked List)](./src/0046_0114_Flatten_Binary_Tree_to_Linked_List/) | 🏷️ 二叉树 | 先序遍历、Morris 遍历变体、原地修改 | 🟡 中等  | 100.00% / 69.77% | ✅ 完成 | ✅️ |
+| 2026-03-11 | 0105 | [从前序与中序遍历序列构造二叉树 (Construct Binary Tree from Preorder and Inorder Traversal)](./src/0047_0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal_从前序与中序遍历序列构造二叉树/) | 🏷️ 二叉树 | 树、数组、哈希表、分治 | 🟡 中等 | 99.10% / 69.02% | ✅ 完成 | |
+| 2026-03-11 | 0155 | [最小栈 (Min Stack)](./src/0047_0155_Min_Stack_最小栈) | 🏷️ 栈 | 栈、设计 | 🟡 中等 | 74.40% / 69.18% | ✅ 完成 | ✅️ |
+| 2026-03-11 | 0394 | [字符串解码 (Decode String)](./src/0047_0394_Decode_String_字符串解码/) | 🏷️ 栈 | 栈、字符串解析、状态机 | 🟡 中等 | 89.11% / 70.73% | ✅ 完成 | |
+| 2026-03-11 | 0215 | [数组中的第K个最大元素 (Kth Largest Element in an Array)](./src/0048_0215_Kth_Largest_Element_in_an_Array/) | 🏷️ 堆/分治 | 堆、快速选择、随机化 | 🟡 中等 | 12.92% / 50.86% | ✅ 完成 | ✅️ |
+| 2026-03-11 | 0200 | [岛屿数量 (Number of Islands)](./src/0049_0200_Number_of_Islands_岛屿数量/) | 🏷️ 图 | DFS、矩阵遍历、原地修改、图论连通块 | 🟡 中等 | 94.96% / 80.11% | ✅ 完成 | |
+| 2026-03-11 | 0994 | [腐烂的橘子 (Rotting Oranges)](./src/0050_0994_Rotting_Oranges_腐烂的橘子/) | 🏷️ 图 | 多源 BFS、队列、图论、状态剪枝 | 🟡 中等 | 100.00% / 45.37% | ✅ 完成 | |
+| 2026-03-11 | 0046 | [全排列 (Permutations)](./src/0051_0046_Permutations_全排列/) | 🏷️ 回溯算法 | DFS、全排列、状态回溯、Java深拷贝陷阱 | 🟡 中等 | 96.84% / 30.84% | ✅ 完成 | ✅️ |
 | - | - | ⏳ 正在加载下一题... | - | - | - | - | - | - |
 
 > *注：点击题目名称即可进入对应的代码文件夹。*
