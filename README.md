@@ -69,12 +69,22 @@
 | 2026-03-11 | 0105 | [从前序与中序遍历序列构造二叉树 (Construct Binary Tree from Preorder and Inorder Traversal)](./src/0047_0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal_从前序与中序遍历序列构造二叉树/) | 🏷️ 二叉树 | 树、数组、哈希表、分治 | 🟡 中等 | 99.10% / 69.02% | ✅ 完成 | |
 | 2026-03-11 | 0155 | [最小栈 (Min Stack)](./src/0047_0155_Min_Stack_最小栈) | 🏷️ 栈 | 栈、设计 | 🟡 中等 | 74.40% / 69.18% | ✅ 完成 | ✅️ |
 | 2026-03-11 | 0394 | [字符串解码 (Decode String)](./src/0047_0394_Decode_String_字符串解码/) | 🏷️ 栈 | 栈、字符串解析、状态机 | 🟡 中等 | 89.11% / 70.73% | ✅ 完成 | |
-| 2026-03-11 | 0215 | [数组中的第K个最大元素 (Kth Largest Element in an Array)](./src/0048_0215_Kth_Largest_Element_in_an_Array/) | 🏷️ 堆/分治 | 堆、快速选择、随机化 | 🟡 中等 | 12.92% / 50.86% | ✅ 完成 | ✅️ |
+| 2026-03-11 | 0215 | [数组中的第K个最大元素 (Kth Largest Element in an Array)](./src/0050_0215_Kth_Largest_Element_in_an_Array_数组中的第K个最大元素/) | 🏷️ 堆/分治 | 堆、快速选择、随机化 | 🟡 中等 | 12.92% / 50.86% | ✅ 完成 | ✅️ |
 | 2026-03-11 | 0200 | [岛屿数量 (Number of Islands)](./src/0049_0200_Number_of_Islands_岛屿数量/) | 🏷️ 图 | DFS、矩阵遍历、原地修改、图论连通块 | 🟡 中等 | 94.96% / 80.11% | ✅ 完成 | |
 | 2026-03-11 | 0994 | [腐烂的橘子 (Rotting Oranges)](./src/0050_0994_Rotting_Oranges_腐烂的橘子/) | 🏷️ 图 | 多源 BFS、队列、图论、状态剪枝 | 🟡 中等 | 100.00% / 45.37% | ✅ 完成 | |
 | 2026-03-11 | 0046 | [全排列 (Permutations)](./src/0051_0046_Permutations_全排列/) | 🏷️ 回溯算法 | DFS、全排列、状态回溯、Java深拷贝陷阱 | 🟡 中等 | 96.84% / 30.84% | ✅ 完成 | ✅️ |
 | 2026-03-11 | 0070 | [爬楼梯 (Climbing Stairs)](./src/0052_0070_Climbing_Stairs_爬楼梯/) | 🏷️ 动态规划 | DP 基础、状态转移方程、滚动数组、空间复杂度优化 | 🟢 简单 | 100.00% / 64.37% | ✅ 完成 | |
 | 2026-03-11 | 0118 | [杨辉三角 (Pascal's Triangle)](./src/0053_0118_Pascals_Triangle_杨辉三角/) | 🏷️ 动态规划 | 数组、二维 DP、状态转移方程、数学 | 🟢 简单 | 99.87% / 72.87% | ✅ 完成 | |
+| 2026-03-12 | 0139 | [单词拆分 (Word Break)](./src/0054_0139_Word_Break_单词拆分/) | 🏷️ 动态规划 | 字符串拆分、一维 DP、状态转移方程、HashSet 优化 | 🟡 中等 | 62.85% / 51.98% | ✅ 完成 | ✅️ |
+| 2026-03-12 | 0078 | [子集 (Subsets)](./src/0055_0078_Subsets_子集/) | 🏷️ 回溯算法 | DFS、幂集搜索、无条件收集、start剪枝机制 | 🟡 中等 | 39.36% / 14.87% | ✅ 完成 | ✅️ |
+| 2026-03-12 | 0017 | [电话号码的字母组合 (Letter Combinations of a Phone Number)](./src/0056_0017_Letter_Combinations_of_a_Phone_Number_电话号码的字母组合/) | 🏷️ 回溯算法 | 组合生成、多集合回溯、查表法优化、StringBuilder 微操 | 🟡 中等 | 100.00% / 82.96% | ✅ 完成 | ✅️ |
+| 2026-03-12 | 0039 | [组合总和 (Combination Sum)](./src/0057_0039_Combination_Sum_组合总和/) | 🏷️ 回溯算法 | DFS、无限重复选择、start指针魔法、凑单模型 | 🟡 中等 | 99.66% / 52.28% | ✅ 完成 | ✅️ |
+| 2026-03-12 | 0022 | [括号生成 (Generate Parentheses)](./src/0058_0022_Generate_Parentheses_括号生成/) | 🏷️ 回溯算法 | 规则前置剪枝、卡特兰数、状态机、String隐式回溯 | 🟡 中等 | 27.80% / 21.12% | ✅ 完成 | ✅️ |
+| 2026-03-12 | 0035 | [搜索插入位置 (Search Insert Position)](./src/0059_0035_Search_Insert_Position_搜索插入位置/) | 🏷️ 二分查找 | 闭区间模板、越界指针含义、防溢出微操 | 🟢 简单 | 100.00% / 99.98% | ✅ 完成 | |
+| 2026-03-12 | 0074 | [搜索二维矩阵 (Search a 2D Matrix)](./src/0060_0074_Search_a_2D_Matrix_搜索二维矩阵/) | 🏷️ 二分查找 | 虚拟降维、一二维坐标系映射映射、O(1) 空间优化 | 🟡 中等 | 100.00% / 76.39% | ✅ 完成 | |
+| 2026-03-12 | 0034 | [在排序数组中查找元素的第一个和最后一个位置 (Find First and Last Position)](./src/0063_0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array_在排序数组中查找元素的第一个和最后一个位置/) | 🏷️ 二分查找 | 边界逼近、Fail-Fast 机制、Range Query 模型 | 🟡 中等 | 100.00% / 74.38% | ✅ 完成 | ✅️ |
+| 2026-03-12 | 0347 | [前 K 个高频元素 (Top K Frequent Elements)](./src/0064_0347_Top_K_Frequent_Elements_前K个高频元素/) | 🏷️ 堆/优先队列 | HashMap频次统计、小顶堆自定义排序、末位淘汰制 | 🟡 中等 | 15.09% / 62.79% | ✅ 完成 | ✅️ |
+| 2026-03-12 | 0300 | [最长递增子序列 (Longest Increasing Subsequence)](./src/0065_0300_Longest_Increasing_Subsequence_最长递增子序列ubsequence/) | 🏷️ 贪心/二分 | LIS、DP状态定义、Patience Sorting 潜伏替换机制 | 🟡 中等 | 99.86% / 85.98% | ✅ 完成 | ✅️ |
 | - | - | ⏳ 正在加载下一题... | - | - | - | - | - | - |
 
 > *注：点击题目名称即可进入对应的代码文件夹。*
