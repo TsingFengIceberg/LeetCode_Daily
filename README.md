@@ -80,11 +80,16 @@
 | 2026-03-12 | 0017 | [电话号码的字母组合 (Letter Combinations of a Phone Number)](./src/0056_0017_Letter_Combinations_of_a_Phone_Number_电话号码的字母组合/) | 🏷️ 回溯算法 | 组合生成、多集合回溯、查表法优化、StringBuilder 微操 | 🟡 中等 | 100.00% / 82.96% | ✅ 完成 | ✅️ |
 | 2026-03-12 | 0039 | [组合总和 (Combination Sum)](./src/0057_0039_Combination_Sum_组合总和/) | 🏷️ 回溯算法 | DFS、无限重复选择、start指针魔法、凑单模型 | 🟡 中等 | 99.66% / 52.28% | ✅ 完成 | ✅️ |
 | 2026-03-12 | 0022 | [括号生成 (Generate Parentheses)](./src/0058_0022_Generate_Parentheses_括号生成/) | 🏷️ 回溯算法 | 规则前置剪枝、卡特兰数、状态机、String隐式回溯 | 🟡 中等 | 27.80% / 21.12% | ✅ 完成 | ✅️ |
-| 2026-03-12 | 0035 | [搜索插入位置 (Search Insert Position)](./src/0059_0035_Search_Insert_Position_搜索插入位置/) | 🏷️ 二分查找 | 闭区间模板、越界指针含义、防溢出微操 | 🟢 简单 | 100.00% / 99.98% | ✅ 完成 | |
+| 2026-03-12 | 0035 | [搜索插入位置 (Search Insert Position)](./src/0061_0035_Search_Insert_Position_搜索插入位置/) | 🏷️ 二分查找 | 闭区间模板、越界指针含义、防溢出微操 | 🟢 简单 | 100.00% / 99.98% | ✅ 完成 | |
 | 2026-03-12 | 0074 | [搜索二维矩阵 (Search a 2D Matrix)](./src/0060_0074_Search_a_2D_Matrix_搜索二维矩阵/) | 🏷️ 二分查找 | 虚拟降维、一二维坐标系映射映射、O(1) 空间优化 | 🟡 中等 | 100.00% / 76.39% | ✅ 完成 | |
 | 2026-03-12 | 0034 | [在排序数组中查找元素的第一个和最后一个位置 (Find First and Last Position)](./src/0063_0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array_在排序数组中查找元素的第一个和最后一个位置/) | 🏷️ 二分查找 | 边界逼近、Fail-Fast 机制、Range Query 模型 | 🟡 中等 | 100.00% / 74.38% | ✅ 完成 | ✅️ |
 | 2026-03-12 | 0347 | [前 K 个高频元素 (Top K Frequent Elements)](./src/0064_0347_Top_K_Frequent_Elements_前K个高频元素/) | 🏷️ 堆/优先队列 | HashMap频次统计、小顶堆自定义排序、末位淘汰制 | 🟡 中等 | 15.09% / 62.79% | ✅ 完成 | ✅️ |
 | 2026-03-12 | 0300 | [最长递增子序列 (Longest Increasing Subsequence)](./src/0065_0300_Longest_Increasing_Subsequence_最长递增子序列ubsequence/) | 🏷️ 贪心/二分 | LIS、DP状态定义、Patience Sorting 潜伏替换机制 | 🟡 中等 | 99.86% / 85.98% | ✅ 完成 | ✅️ |
+| 2026-03-13 | 0033 | [搜索旋转排序数组 (Search in Rotated Sorted Array)](./src/0047_0033_Search_in_Rotated_Sorted_Array_搜索旋转排序数组/) | 🏷️ 二分查找 | 数组、二分查找 | 🟡 中等 | 100.00% / 53.31% | ✅ 完成 | ✅️ |
+| 2026-03-13 | 0152 | [乘积最大子数组 (Maximum Product Subarray)](./src/0048_0152_Maximum_Product_Subarray_乘积最大子数组/) | 🏷️ 动态规划 | 数组、动态规划、状态压缩 | 🟡 中等 | 92.04% / 93.19% | ✅ 完成 | ✅️ |
+| 2026-03-13 | 0062 | [不同路径 (Unique Paths)](./src/0049_0062_Unique_Paths_不同路径/) | 🏷️ 动态规划 | 数学、动态规划、组合数学、状态压缩 | 🟡 中等 | 100.00% / 46.33% | ✅ 完成 | |
+| 2026-03-13 | 0064 | [最小路径和 (Minimum Path Sum)](./src/0050_0064_Minimum_Path_Sum_最小路径和/) | 🏷️ 动态规划 | 数组、动态规划、矩阵、状态压缩(原地修改) | 🟡 中等 | 88.07% / 41.21% | ✅ 完成 | |
+| 2026-03-13 | 0005 | [最长回文子串 (Longest Palindromic Substring)](./src/0051_0005_Longest_Palindromic_Substring_最长回文子串/) | 🏷️ 字符串 | 双指针、中心扩展法、动态规划、状态依赖 | 🟡 中等 | 64.50% / 90.57% | ✅ 完成 | ✅️ |
 | - | - | ⏳ 正在加载下一题... | - | - | - | - | - | - |
 
 > *注：点击题目名称即可进入对应的代码文件夹。*
